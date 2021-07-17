@@ -1,0 +1,16 @@
+Hi all,
+
+In Unit 13 (Apr 15, Lecture 24) we discussed generalization bounds for learning algorithms that have low mutual information between their input and output.
+
+We mostly followed this paper:
+
+Bassily, R., Moran, S., Nachum, I., Shafer, J., & Yehudayoff, A. (2018). Learners that use little information. In Algorithmic Learning Theory (pp. 25-55). PMLR.
+The following paper is similar:
+
+Xu, A., & Raginsky, M. (2017). Information-theoretic analysis of generalization capability of learning algorithms. In Proceedings of the 31st International Conference on Neural Information Processing Systems (pp. 2521-2530).
+Finally, this paper has some exciting recent developments, which allow to sidestep the lower bound on mutual information from Bassily et. al.
+
+Steinke, T., & Zakynthinou, L. (2020). Reasoning about generalization via conditional mutual information. In Conference on Learning Theory (pp. 3437-3452). PMLR.
+Best,
+
+Jonathan

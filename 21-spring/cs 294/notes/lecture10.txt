@@ -1,0 +1,18 @@
+Hi all,
+
+Shafi has sent me now three additional papers. If possible, I'd recommend skimming through them before the lecture tomorrow.
+
+
+Blum, A., Furst, M., Kearns, M., & Lipton, R. J. (1993). Cryptographic primitives based on hard learning problems. In Annual International Cryptology Conference (pp. 278-291). Springer, Berlin, Heidelberg.
+(link)
+
+Blum, A. L., & Rivest, R. L. (1992). Training a 3-node neural network is NP-complete. Neural Networks, 5(1), 117-127.
+(link, link, link)
+
+Daniely, A., & Vardi, G. (2020). Hardness of learning neural networks with natural weights. arXiv preprint arXiv:2006.03177.
+(link)
+Looking forward to seeing you tomorrow!
+
+Best,
+
+Jonathan

@@ -1,0 +1,26 @@
+Hi all,
+
+I just now received the reading materials for Shafi's upcoming lectures. Looks interesting!
+I encourage everyone to skim through them over the next week. 
+
+Valiant's original PAC paper:
+Valiant, L. G. (1984). A theory of the learnable. Communications of the ACM, 27(11), 1134-1142.
+(link)
+
+Kearns, M., & Valiant, L. (1994). Cryptographic limitations on learning Boolean formulae and finite automata. Journal of the ACM (JACM), 41(1), 67-95.
+(link)
+
+Kharitonov, M. (1995). Cryptographic lower bounds for learnability of Boolean functions on the uniform distribution. Journal of Computer and System Sciences, 50(3), 600-610.
+(link)
+
+Kharitonov, M. (1993). Cryptographic hardness of distribution-specific learning. In Proceedings of the twenty-fifth annual ACM symposium on Theory of computing (pp. 372-381).
+(link)
+
+Bogdanov, A., & Rosen, A. (2017). Pseudorandom functions: Three decades later. In Tutorials on the Foundations of Cryptography (pp. 79-158). Springer, Cham.
+(link)
+
+Cohen, A., Goldwasser, S., & Vaikuntanathan, V. (2015). Aggregate pseudorandom functions and connections to learning. In Theory of Cryptography Conference (pp. 61-89). Springer, Berlin, Heidelberg.
+(link)
+Best,
+
+Jonathan

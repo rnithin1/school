@@ -1,0 +1,18 @@
+Hi all,
+
+In our final unit for the course (Unit 14), we discuss online learning.
+
+In lectures 25 (April 20) we mostly followed Sections 8.1, 8.2.1, 8.2.2 and 8.2.3 in the MRT textbook. 
+
+In lecture 26 we will discuss the Littlestone dimension and online learning for infinite hypothesis classes. The reading for that lecture is:
+
+Ben-David, S., Pál, D., & Shalev-Shwartz, S. (2009). Agnostic Online Learning. In COLT (Vol. 3, p. 1).
+(link)
+In addition, the following lecture notes are also recommended and cover similar topics:
+
+Lecture notes by Nika Haghtalab: 11, 12, 13, 14
+Nika has recently joined the faculty at UC Berkeley - you might want to take her CS294 course next semester :)
+
+Best,
+
+Jonathan

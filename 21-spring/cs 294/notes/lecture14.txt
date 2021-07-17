@@ -1,0 +1,25 @@
+Hi all,
+
+In our next lecture, we will introduce the notion of sample compression schemes, and discuss the following paper:
+
+Moran, S., & Yehudayoff, A. (2016). Sample compression schemes for VC classes. Journal of the ACM (JACM), 63(3), 1-10.
+(link)
+I think this is an extremely interesting paper. It solved a problem that was open for 30 years, giving a fairly elegant proof that blends together ideas about VC dimension, boosting, data compression, and game theory. It is also fairly readable :)
+
+I will try to give the main highlights of their proof without necessarily including all the details.
+
+ 
+
+Additional resources on sample compression schemes include:
+
+Chapter 30 in SSBD. 
+(Fun fact: the Moran & Yehudayoff paper came out after the textbook was written, so SSBD say in their Bibliographic Remarks that the problem is still open)
+
+Littlestone, N., & Warmuth, M. (1986). Relating data compression and learnability. Unpublished manuscript.
+(link)
+
+Floyd, S., & Warmuth, M. (1995). Sample compression, learnability, and the Vapnik-Chervonenkis dimension. Machine learning, 21(3), 269-304.
+(link)
+Best,
+
+Jonathan

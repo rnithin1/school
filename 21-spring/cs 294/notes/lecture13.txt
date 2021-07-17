@@ -1,0 +1,17 @@
+Hi all,
+
+In lecture 20 we discussed stability and regularization. The reading material that accompanies that topic is:
+
+
+Chapter 13 in SSBD. 
+
+I followed the textbook fairly closely, adding in a few definition from the previous chapters. Additional recommended resources on this topic include:
+
+
+Chapter 14 and Section 4.6 in MRT.
+
+Bousquet, O., & Elisseeff, A. (2002). Stability and generalization. The Journal of Machine Learning Research, 2, 499-526.
+(link)
+Best,
+
+Jonathan

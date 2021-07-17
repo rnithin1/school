@@ -1,0 +1,21 @@
+Hi all,
+
+Our next lecture will discuss non-uniform learning. This is the first in a number of lectures touching on a themes related to Occam's razor (which roughly says that "simpler explanations are better") and, more generally, connections between learning and data compression.
+
+The accompanying reading for this lecture is listed below, in decreasing order of readability:
+
+
+Chapter 7 in SSBD.  
+
+Blumer, A., Ehrenfeucht, A., Haussler, D., & Warmuth, M. K. (1987). Occam's razor. Information processing letters, 24(6), 377-380.
+(link)
+
+Rissanen, J. (1978). Modeling by shortest data description. Automatica, 14(5), 465-471.
+(link)
+The textbook chapter is definitely recommended. The Blumer et al. paper is short, but perhaps less clean than the textbook. The Rissanen paper is probably the least approachable of the three, and I'd recommend only skimming it very briefly to get the gist of it.  
+
+
+
+Best,
+
+Jonathan

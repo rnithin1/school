@@ -1,0 +1,13 @@
+Hi all,
+
+In the next two lectures we will discuss boosting.
+
+I recommend skimming through Sections 10.1, 10.2 and 10.3 in the SSBD book, which cover the basic idea of Boosting.
+
+Additional recommended reading:
+
+Chapter 7 in: Mohri, Rostamizadeh & Talwalkar (2018). Foundations of Machine Learning.
+Book: Schapire & Freund (2013). Boosting: Foundations and algorithms.
+Best,
+
+Jonathan

@@ -1,0 +1,28 @@
+Hi all,
+
+On Tuesday we will continue discussing non-uniform learning. Specifically, we will discuss the PAC-Bayes theorem. 
+
+The accompanying reading for this lecture is:
+
+Chapter 31 in SSBD.  
+
+McAllester, D. A. (1999). Some PAC-Bayesian Theorems. Machine Learning, 37(3), 355-363.
+(link)
+Both of these are short and readable -- definitely recommended. 
+
+Some additional sources:
+
+Lecture notes by McAllester.
+(link)
+
+Section 5 in: Langford, J., & Schapire, R. (2005). Tutorial on Practical Prediction Theory for Classification. Journal of machine learning research, 6(3).
+(link)
+
+Lecture notes by Ofer Dekel.
+(link)
+
+Guedj, B. (2019). A primer on PAC-Bayesian learning. arXiv preprint arXiv:1901.05353.
+(link)
+Best,
+
+Jonathan

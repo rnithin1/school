@@ -1,0 +1,34 @@
+Art 160 Lights Debug
+https://docs.unity3d.com/Manual/AnimationsImport.html
+https://docs.unity3d.com/2020.1/Documentation/Manual/class-LightingSettings.html
+If you select your animation in the Project window, then go to the top right corner of the Inspector window and select Debug from the drop down menu (next to the lock), then change the Animation Type to 1 will mark it as Legacy.Nov 18, 2013
+https://docs.unity3d.com/Manual/Animations.html
+https://docs.unity3d.com/Manual/FBXImporter-Rig.html
+https://docs.unity3d.com/2018.2/Documentation/Manual/ImportingModelFiles.html
+
+Cheap trick: light, color and motion. These all create mood. 
+Maybe having a light gun that lets you see things that you’re not supposed to be. Maya: instead of directional light, use spotlight for this. Not clear if spotlight will translate.
+
+Penumbra: softer shadow. Can add a drop-off too. Can add lights that shine in different directions. 
+
+
+“Way finding”
+
+“Retablo” 
+
+approaching: going to a different scene altogether
+Cinematic edit
+
+“Character controller might be the reason for why it cannot translate”
+Fix capsule collider 
+
+Image effect reference
+Tone mapping
+Apocalypse (Dürer) 
+
+orchestra.berkeley.edu/soundscapes
+
+https://newart.city/show/fs13
+
+OnControllerColliderHit for character controller 
+

@@ -1,0 +1,23 @@
+1. Social deduction game
+    1. Spyfall but on Zoom
+        1. Everyone is given a slightly different variation of a location except for the Spies, who are given nothing
+        2. Each round, everyone votes for who should go into a breakout room (in the main room)
+            1. Poll is broadcasted to everyone
+        3. They each ask each other one question
+        4. When they come out, can talk about anything (can lie)
+        5. Each person except two (the spies) 
+            1. Win condition for the spy: Guess who the other spy is
+            2. Win condition for the main team: Guess who the spies are
+    2. B
+        1. Two teams, good and bad
+        2. Good guys know who they are, bad guys do not know who is on the bad team
+            1. Win condition for good: Must pass 1/4 number of rounds
+            2. Win condition for bad: Must fail 3/4 number of rounds
+        3. Vote for who the Zoom host is (could be good or bad)
+        4. Teams of 4 (?) are chosen each round, and are given a poll for if it succeeded or not
+            1. Go back into the main room and vote
+            2. Results are not broadcasted
+        5. Elected zoom host and the party goes back into the breakout room and announces just who won (can lie)
+            1. Same host cannot be elected twice, but can be in as many parties as needed
+        6. Deliberation occurs to decide who the bad guys are
+

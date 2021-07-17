@@ -1,0 +1,28 @@
+Use same structures over and over again if you plan them out well. Like bench, or chair, or even a room. Make it different by switching out textures. When you design, try to reuse modules. Alcove, ramp, balcony, etc. Can use it in multiple places. 
+
+Unitize as much as possible. Vents have a certain look, you can put them everywhere. Works well in terms of production and rendering the game — can have the same object so it takes less memory to render. 
+
+Funny things with it — for example, basement is the same as above, but everything is a different color. Lighting is powerful so we could have different lighting. 
+
+Easier to give things colors. Thinking about what aesthetic you’re going for is crucial. 
+
+Easiest way to create mood: modify lighting. Flickering
+
+Point light
+Light can be key framed (control animations) 
+Change intensity 
+
+Graph editor in Maya
+
+To see light: render it out (hardware render) 
+Go to render view
+
+Can apply shader to various sides
+Lambert shader 
+
+Use of gradient as texture (in hyper shader Maya) 
+
+Uv editor Maya
+Unitize in uv editor - each facet has the same texture (looks like a zebra) 
+
+

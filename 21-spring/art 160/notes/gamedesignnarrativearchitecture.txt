@@ -1,0 +1,167 @@
+Original Notes
+model of how narrative possibilities might get mapped onto game space
+- The relationship between games and story remains a divisive question among game fans, designers, and scholars alike.
+    - a blood feud threatened to erupt between the self-proclaimed Ludologists, who wanted to see the focus shift onto the mechanics of game play, and the Narratologists, who were interested in studying games alongside other storytelling media
+        - Interactivity is almost the opposite of narrative; narrative flows under the direction of the author, while interactivity depends on the player for motive power
+        - There is a direct, immediate conflict between the demands of a story and the demands of a game.
+    - I understand what these writers are arguing against - various attempts to map traditional narrative structures ("hypertext," "Interactive Cinema," "nonlinear narrative") onto games at the expense of an attention to their specificity as an emerging mode of entertainment.
+    - Hypertext theory: narrative and poetic uses of hypertext as a composition technique and metatextual principle aided by specific technologies such as hypertext editing software and HTML (Hypertext Mark-Up Language)
+    - The application of film theory to games can seem heavy-handed and literal minded, often failing to recognize the profound differences between the two media. 
+    - In this short piece, I hope to offer a middle ground position between the ludologists and the narratologists, one that respects the particularity of this emerging medium - examining games less as stories than as spaces ripe with narrative possibility.
+- 5 points where we all agree on:
+    - Not all games tell stories. Games may be an abstract, expressive, and experiential form, closer to music or modern dance than to cinema. 
+        - To understand such games, we need other terms and concepts beyond narrative, including interface design and expressive movement for starters.
+    - Many games do have narrative aspirations
+        - Minimally, they want to tap the emotional residue of previous narrative experiences. 
+        - Often, they depend on our familiarity with the roles and goals of genre entertainment to orientate us to the action, and in many cases, game designers want to create a series of narrative experiences for the player.
+    - Narrative analysis need not be prescriptive, even if some narratologist - Janet Murray is the most oft cited example - do seem to be advocating for games to pursue particular narrative forms.
+        - The goal should be to foster diversification of genres, aesthetics, and audiences, to open gamers to the broadest possible range of experiences.
+        - The Sims, Black and White, Majestic, Shenmue; each represents profoundly different concepts of what makes for compelling game play.
+        - A discussion of the narrative potentials of games need not imply a privileging of storytelling over all the other possible things games can do, even if we might suggest that if game designers are going to tell stories, they should tell them well.
+    - The experience of playing games can never be simply reduced to the experience of a story
+        - Many other factors which have little or nothing to do with storytelling per se contribute to the development of a great games and we need to significantly broaden our critical vocabulary for talking about games to deal more fully with those other topics. 
+        - Here, the ludologist's insistence that game scholars focus more attention on the mechanics of game play seems totally in order.
+    - If some games tell stories, they are unlikely to tell them in the same ways that other media tell stories.
+        - Stories are not empty content that can be ported from one media pipeline to another.
+        - Yet, in order to do so requires precise comparisons - not the mapping of old models onto games but a testing of those models against existing games to determine what features they share with other media and how they differ.
+- Issues with current game narrative discussion
+    - First, the discussion operates with too narrow a model of narrative, one preoccupied with the rules and conventions of classical linear storytelling at the expense of consideration of other kinds of narratives, not only the modernist and postmodernist experimentation that inspired the hypertext theorists, but also popular traditions which emphasize spatial exploration over causal event chains or which seek to balance between the competing demands of narrative and spectacle.
+    - the discussion operates with too limited an understanding of narration, focusing more on the activities and aspirations of the storyteller and too little on the process of narrative comprehension.
+    - Third, the discussion deals only with the question of whether whole games tell stories and not whether narrative elements might enter games at a more localized level.
+    - Want to argue for an understanding of game designers less as storytellers and more as narrative architects.
+- Spatiality 
+    - Game designers don't simply tell stories; they design worlds and sculpt spaces.
+    - Predecessors
+        - paper mazes or board games, both preoccupied with the design of spaces, even where they also provided some narrative context. Monopoly, for example, may tell a narrative about how fortunes are won and lost; the individual Chance cards may provide some story pretext for our gaining or losing a certain number of places; but ultimately, what we remember is the experience of moving around the board and landing on someone's real estate.
+        - Performance theorists have described RPGs as a mode of collaborative storytelling, but the Dungeon Master's activities start with designing the space - the dungeon - where the players' quest will take place.
+        - early Nintendo games have simple narrative hooks - rescue Princess Toadstool - but what gamers found astonishing when they first played them were their complex and imaginative graphic realms, which were so much more sophisticated than the simple grids that Pong or Pac-Man had offered us a decade earlier.
+    - When gamer magazines want to describe the experience of gameplay, they are more likely to reproduce maps of the game world than to recount their narratives.
+    - Across a series of essays, I have made the case that game consoles should be regarded as machines for generating compelling spaces, that their virtual playspaces have helped to compensate for the declining place of the traditional backyard in contemporary boy culture, and that the core narratives behind many games center around the struggle to explore, map, and master contested spaces
+    - games fit within a much older tradition of spatial stories, which have often taken the form of hero's odysseys, quest myths, or travel narratives.
+        - In many cases, the characters - our guides through these richly-developed worlds - are stripped down to the bare bones, description displaces exposition, and plots fragment into a series of episodes and encounters. These works exist on the outer borders of literature.
+        - Games, in turn, may more fully realize the spatiality of these stories, giving a much more immersive and compelling representation of their narrative worlds
+    - Environmental storytelling
+        - Don Carson, who worked as a Senior Show Designer for Walt Disney Imagineering, has argued that game designers can learn a great deal by studying techniques of "environmental storytelling" which Disney employs in designing amusement park attractions.
+        - Carson explains, "The story element is infused into the physical space a guest walks or rides through. It is the physical space that does much of the work of conveying the story the designers are trying to tell....Armed only with their own knowledge of the world, and those visions collected from movies and books, the audience is ripe to be dropped into your adventure. The trick is to play on those memories and expectations to heighten the thrill of venturing into your created universe."
+        - The amusement park attraction doesn't so much reproduce the story of a literary work, such as The Wind in the Willows, as it evokes its atmosphere
+        - Environmental storytelling creates the preconditions for an immersive narrative experience in at least one of four ways: spatial stories can evoke pre-existing narrative associations; they can provide a staging ground where narrative events are enacted; they may embed narrative information within their mise-en-scene; or they provide resources for emergent narratives.
+        - (Narrative information: information about the account of some fictional story, relating here more to a shared experience) 
+    - Evocative spaces
+        - The most compelling amusement park attractions build upon stories or genre traditions already well known to visitors, allowing them to enter physically into spaces they have visited many times before in their fantasies.
+            - These attractions may either remediate a pre-existing story (Back to the Future) or draw upon a broadly shared genre tradition (Disney's Haunted Mansion).
+        - They do not so much tell self-contained stories as draw upon our previously existing narrative competencies.
+        - For example, American McGee's Alice is an original interpretation of Lewis Carroll's Alice in Wonderland. Alice has been pushed into madness after years of living with uncertainty about whether her Wonderland experiences were real or hallucinations; now, she's come back into this world and is looking for blood. McGee's wonderland is not a whimsical dreamscape but a dark nightmare realm. McGee can safely assume that players start the game with a pretty well-developed mental map of the spaces, characters, and situations associated with Carroll's fictional universe and that they will read his distorted and often monstrous images against the background of mental images formed from previous encounters with storybook illustrations and Disney movies. McGee rewrites Alice's story, in large part, by redesigning Alice's spaces.
+    - Increasingly, we inhabit a world of transmedia story-telling, one which depends less on each individual work being self-sufficient than on each work contributing to a larger narrative economy. 
+        - The Star Wars game may not simply retell the story of Star Wars, but it doesn't have to in order to enrich or expand our experience of the Star Wars saga. (Jedi: Fallen Order)
+        - Transmedia: games taking their place within a larger narrative system with story information communicated through books, film, television, comics, and other media, each doing what it does best, each relatively autonomous experience, but the richest understanding of the story world coming to those who follow the narrative across the various channels
+            - In such a system, what games do best will almost certainly center around their ability to give concrete shape to our memories and imaginings of the storyworld, creating an immersive environment we can wander through and interact with.
+    - Enacting Stories
+        - when we discuss games as stories, we are referring to games that either enable players to perform or witness narrative events
+        - Narrative enters such games on two levels - in terms of broadly defined goals or conflicts and on the level of localized incidents.
+            - for example, to grab a lightsabre and dispatch Darth Maul in the case of a Star Wars game
+        - Many game critics assume that all stories must be classically constructed with each element tightly integrated into the overall plot trajectory.
+            - Costikyan writes, for example, that "a story is a controlled experience; the author consciously crafts it, choosing certain events precisely, in a certain order, to create a story with maximum impact."
+        - Spatial stories, on the other hand, are often dismissed as episodic - that is, each episode (or set piece) can become compelling on its own terms without contributing significantly to the plot development and often, the episodes could have been reordered without significantly impacting our experience as a whole.
+            - There may be broad movements or series of stages within the story, as Troy Dunniway suggests when he draws parallels between the stages in the Hero's journey as outlined by Joseph Campbell and the levels of a classic adventure game, but within each stage, the sequencing of actions may be quite loose.
+            - they are stories which respond to alternative aesthetic principles, privileging spatial exploration over plot development. Spatial stories are held together by broadly defined goals and conflicts and pushed forward by the character's movement across the map. 
+            - Their resolution often hinges on the player's reaching their final destination, though, as Mary Fuller notes, not all travel narratives end successfully or resolve the narrative enigmas which set them into motion.
+            - Once again, we are back to principles of "environmental storytelling."
+    - Micronarratives
+        - Narrative can also enter games on the level of localized incident, or what I am calling micronarratives.
+        - We might understand how micronarratives work by thinking about the Odessa Steps sequence in Sergei Eisenstein's Battleship Potemkin.
+            - Eisenstein intensifies our emotional engagement with this large scale conflict through a series of short narrative units.
+            - Each of these units builds upon stock characters or situations drawn from the repertoire of melodrama. None of them last more than a few seconds
+        - One can imagine a simple sequence of preprogrammed actions through which an opposing player responds to your successful touchdown in a football game as a micronarrative.
+        - Micronarratives share smaller ideas that may be on offshoot of the general brand message. The micro-storytelling approach leaves room for communications to feed into a wide range of subjects, rather than pursuing a rigid, inflexible emphasis on a single topic or theme.
+        - Even games which do not create large-scale plot trajectories may well depend on these micronarratives to shape the player's emotional experience.
+        - Game critics often note that the player's participation poses a potential threat to the narrative construction, where-as the hard rails of the plotting can overly constrain the "freedom, power, self-expression" associated with interactivity
+            - The tension between performance (or game play) and exposition (or story) is far from unique to games.
+                - Certain plot points [in movies] are fixed where-as other moments can be expanded or contracted in response to audience feedback without serious consequences to the overall plot.
+            - Game designers struggle with this same balancing act
+                - trying to determine how much plot will create a compelling framework and how much freedom players can enjoy at a local level without totally derailing the larger narrative trajectory
+                - As inexperienced storytellers, they often fall back on rather mechanical exposition through cut scenes, much as early film makers were sometimes overly reliant on intertitles rather than learning the skills of visual storytelling.
+    - Embedded narratives
+        - Russian formalist critics make a useful distinction between plot (or Syuzhet) which refers to, in Kristen Thompson's terms, "the structured set of all causal events as we see and hear them presented in the film itself," and story (or fabula), which refers to the viewer's mental construction of the chronology of those events.
+            - Few films or novels are absolutely linear; most make use of some forms of back story which is revealed gradually as we move through the narrative action.
+        - According to this model, narrative comprehension is an active process by which viewers assemble and make hypothesis about likely narrative developments on the basis of information drawn from textual cues and clues.
+        - As they move through the film, spectators test and reformulate their mental maps of the narrative action and the story space. 
+            - In games, players are forced to act upon those mental maps, to literally test them against the game world itself. 
+                - If you are wrong about whether the bad guys lurk behind the next door, you will find out soon enough - perhaps by being blown away and having to start the game over.
+            - The heavy-handed exposition that opens many games serves a useful function in orienting spectators to the core premises so that they are less likely to make stupid and costly errors as they first enter into the game world. Some games create a space for rehearsal, as well, so that we can make sure we understand our character's potential moves before we come up against the challenges of navigating narrational space.
+        - Read in this light, a story is less a temporal structure than a body of information. The author of a film or a book has a high degree of control over when and if we receive specific bits of information, but a game designer can somewhat control the narrational process by distributing the information across the game space.
+        - narrative information must be redundantly presented across a range of spaces and artifacts, since one can not assume the player will necessarily locate or recognize the significance of any given element.
+        - Game designers have developed a variety of kludges which allow them to prompt players or steer them towards narratively salient spaces.
+            - Yet, this is no different from the ways that redundancy is built into a television soap opera, where the assumption is that a certain number of viewers are apt to miss any given episode, or even in classical Hollywood narrative, where the law of three suggests that any essential plot point needs to be communicated in at least three ways.
+        - Detective stories
+            - To continue with the detective example, then, one can imagine the game designer as developing two kinds of narratives
+                - one relatively unstructured and controlled by the player as they explore the game space and unlock its secrets
+                - the other pre-structured but embedded within the mise-en-scene awaiting discovery.
+            - The game world becomes a kind of information space, a memory palace.
+            - Such a mixture of enacted and embedded narrative elements can allow for a balance between the flexibility of interactivity and the coherence of a pre-authored narrative.
+        - Carson suggests that part of the art of game design comes in finding artful ways of embedding narrative information into the environment without destroying its immersiveness and without giving the player a sensation of being drug around by the neck
+            - "Staged areas...[can] lead the game player to come to their own conclusions about a previous event or to suggest a potential danger just ahead. Some examples include...doors that have been broken open, traces of a recent explosion, a crashed vehicle, a piano dropped from a great height, charred remains of a fire."(
+        - In Peter Muleneux's Black and White, the player's ethical choices within the game leave traces on the landscape or reconfigure the physical appearances of their characters.
+            - Similar to Dorian Grey
+            - referring to the ways that the protagonists of Jules Verne's Journey to The Center of the Earth, keep stumbling across clues and artifacts left behind by a sixteenth Century Icelandic scientist/explorer Arne Saknussemm, and readers become fascinated to see what they can learn about his ultimate fate as the travelers come closer to reaching their intended destination.
+        - Melodrama
+        - A game like Neil Young's Majestic pushes this notion of embedded narrative to its logical extreme. Here, the embedded narrative is no longer contained within the console but rather flows across multiple information channels.
+            - The player's activity consists of sorting through documents, deciphering codes, making sense of garbled transmissions, moving step by step towards a fuller understanding of the conspiracy which is the game's primary narrative focus. We follow links between websites; we get information through webcasts, faxes, e-mails, and phonecalls. Such an embedded narrative doesn't require a branching story structure but rather depends on scrambling the pieces of a linear story and allowing us to reconstruct the plot through our acts of detection, speculation, exploration, and decryption.
+        - most embedded narratives, at present, take the form of detective or conspiracy stories, since these genres help to motivate the player's active examination of clues and exploration of spaces and provide a rationale for our efforts to reconstruct the narrative of past events.
+    - Emergent narratives
+        - Game worlds, ultimately, are not real worlds
+        - Emergent narratives are not pre-structured or pre-programmed, taking shape through the game play, yet they are not as unstructured, chaotic, and frustrating as life itself.
+            - The Sims
+                - each design decision has been made with an eye towards increasing the prospects of interpersonal romance or conflict.
+                - The ability to design our own "skins" encourages players to create characters who are emotionally significant to them, to rehearse their own relationships with friends, family or coworkers or to map characters from other fictional universes onto The Sims.
+                - Characters are given desires, urges, and needs, which can come into conflict with each other, and thus produce dramatically compelling encounters.
+                - Characters respond emotionally to events in their environment, as when characters mourn the loss of a loved one.
+                - Choices have consequences
+                - The gibberish language and flashing symbols allow us to map our own meanings onto the conversations, yet the tone of voice and body language can powerfully express specific emotional states, which encourage us to understand those interactions within familiar plot situations.
+            - The Sims works as well as it does because of the design of its game space
+                - The Sims' houses are stripped down to only a small number of artifacts, each of which perform specific kinds of narrative functions. Newspapers, for example, communicate job information. Characters sleep in beds. Bookcases can make your smarter.
+                - Such choices result in a highly legible narrative space.
+            - narrative potentials of city spaces
+            - In each of these cases, choices about the design and organization of game spaces have narratological consequences.
+spatial design can either enhance our sense of immersion within a familiar world or communicate a fresh perspective on that story through the altering of established details.
+- In the case of enacted narratives, the story itself may be structured around the character's movement through space and the features of the environment may retard or accelerate that plot trajectory.
+- In the case of embedded narratives, the game space becomes a memory palace whose contents must be deciphered as the player tries to reconstruct the plot and in the case of emergent narratives, game spaces are designed to be rich with narrative potential, enabling the story-constructing activity of players.
+
+The term, Ludology, was coined by Espen Aardseth, who advocates the emergence of a new field of study, specifically focused on the study of games and game play, rather than framed through the concerns of pre-existing disciplines or other media.
+
+
+Organizing the presentation
+- Title
+- Conflict between games and story exist among game fans, developers and scholars.
+    - Ludologists, who wanted to see the focus shift onto the mechanics of game play
+    - Narratologists, who were interested in studying games alongside other storytelling media
+    - Interactivity is almost the opposite of narrative; narrative flows under the direction of the author, while interactivity depends on the player for motive power
+    - There is a direct, immediate conflict between the demands of a story and the demands of a game.
+- Middle ground: examine games as their own medium of narrative communication, which should only be analyzed in terms of the medium specificities of video games, and not with respect to filmmaking, books or other media that have their own methods. Essentially, he looks to the role of game space in crafting a unique narrative experience.
+    - middle ground position between the ludologists and the narratologists
+- 5 points we can agree on
+- Issues with current game narrative discussion
+    - Want to argue for an understanding of game designers less as storytellers and more as narrative architects.
+    - Key: The essay emphasizes spatial exploration and nonlinear storytelling
+        - “Game designers don’t simply tell stories; they design worlds and sculpt spaces” (121)
+    - Should not have prescriptive, unbending videogame terminology
+    - New ideas are suggestions for rigid categorization of style and more a suggestion for broader development
+- Four different approaches to game spaces that generate unique narratives: evocative spaces, enacting stories, embedded narratives, and emergent narratives.
+    - Evocative spaces
+        - Evocative spaces can best be defined as spaces that “evoke pre-existing narrative associations,” often building upon ingrained assumptions or prior texts that lure audiences in with their familiarity (123).
+        - Example: Stanley parable, American McGee’s Alice
+            - existing game spaces in order to appeal to or even subvert an audience’s memory of a recognizable space.
+    - Enacting stories
+        - Provide “a staging ground where narrative events are enacted,” an approach in which story “may be structured around the character’s movement through space and the features of the environment may retard or accelerate that plot trajectory” (123 & 129).
+        - emphasis on spatial exploration and progression as essential to videogame narratives.
+        - Example: Journey (thatgamecompany 2012) and Passage (Jason Rohrer, 2007)
+        - Micronarratives: cut-scenes, animations, dialogue, NPCs, objects to interact with, etc. These elements may not have a significant bearing on the grander narrative but are noteworthy additions that can color the player’s experience nonetheless
+    - Embedded narratives
+        - Embedded narratives involve “information within their mise-en-scene” that enables “the story-constructing activity of players” (123 & 129). 
+        - This approach relies on the player to ascertain a narrative via context clues, textual cues, and artifacts that are loaded with meaning.
+        - Detective and conspiracy stories 
+        - Example: LA Noire, The Walking Dead (Telltale Games, 2012)
+            - imbuing items scattered around the environment with great symbolic import
+    - Emergent narratives
+        - Players have their own authorship and agency, and look toward defining their own narrative experience and objectives in the grand scheme of the videogame.
+        - stories emerge based on a player’s choices and actions within game space.
+

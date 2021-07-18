@@ -1,4 +1,4 @@
 17-fall/cs61a
 18-summer/cs61bl
-.*
+.**
 !/.gitignore

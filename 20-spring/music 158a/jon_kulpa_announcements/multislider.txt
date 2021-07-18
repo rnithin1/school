@@ -1,0 +1,7 @@
+It occurred to me you probably wanted this based on our last in-class exploration.  In the latest course.zip, I made an abstraction for you.   In any (n)ew object, type steps-to-scale~ .
+
+With this object you'll be able to map a multislider list to a musical scale of choice - all with signal rate lookups as we are currently exploring.
+
+Learn to use it at Music Topics >> Map List of Steps to Musical Scale.
+
+You can jump to the punchline in the "steps-to-scale~ abstraction 2" patch, but there are some intro patches to introduce the topic, in addition to at least explaining the math if you care.  Otherwise, feel free to just use it.

@@ -1,0 +1,10 @@
+You know groove~ transposes by sending it a desired playback speed (1. = untransposed).
+
+At office hours, some students wanted to know if they could have fine control over transposing a sample (by a number of halfsteps up or down.   To send groove~ the correct playback speed that corresponds to a desired number of halfsteps up or down, it is an exponential function:
+
+       speed = 2^(n/12)
+
+            where n is the number of halfsteps, e.g. n =  -2 is two halfsteps down.
+
+Here is a patch that implements this for you:
+halfsteps_to_playback_speed.maxpat

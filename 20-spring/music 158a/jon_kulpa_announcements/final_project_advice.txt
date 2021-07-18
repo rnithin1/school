@@ -1,0 +1,39 @@
+Narrow your scope.  No need to explore everything.  Trust yourself.
+
+1) what sounds do you like? Then build a final around that exploration.  Mess with inlets to sound-making objects!
+
+    a) samples: go collecting your own at freesound.org and/or https://philharmonia.co.uk/resources/sound-samples/ and/or record your own with your laptop mic!
+
+            - could play with timestretching / transp with groove~, or granular synth with o.granubuf~
+
+    b) synthesis: additive, AM, RM, FM
+
+   c) the real-time real-world: bring it into your patch with a mic and adsr~.  Then use it however you want.
+
+    c) filter anything! (start with a complex sound and remove frequencies with biquad~ and filtergraph~)
+
+    d) effects on your source sounds: delays, downsamp~, degrade~, pitch-stutter~, OSC-yafr2~.  Also, recall any sound can be used to excite a resonator model with resonators~.  If you own VST effects on your computer you can use them in Max with vst~ !
+
+2) what type of control and timing?  Each of the following is its own world of expertise.
+
+   a) a precise composition: hit bang and everything runs.  If you demand precision and precise synchrony between multiple voices and parameters,  this is perhaps the hardest model to accomplish in Max.  Think step-sequencer, automated lookups, and envelopes with function table (fed to line~ or curve~).  If you need to map an itable or multislider list to a scale of choice, you'll want steps-to-scale~.  Do your best to control time given the tools you were shown.  If you try really hard and end up with something that is not exactly what you wanted, its ok!   I am also here to help you.  
+
+   b) perform it...map many musical parameters to various controllers.   QuNeo, mouse, and/or qwerty keyboard...see the scale() function in odot to map input values to output values you want to hear.
+
+   c) random selection of values including durations of time (ranAB, ranIJ), random metros
+
+   d) when one process ends, detect it (e.g. the 2nd outlet of line~ or of groove~), and use that bang to start a new process
+
+   e) other automation (LFO, rand~...odot code running the show)
+
+3) how dense, how many layers?
+
+   a) hey, at least a duet.  =-)
+
+   b) many layers of activity?  (could be randomly floating in and out of scene, or can try to control, again see above)
+
+   c) poly~, abstractions
+
+4) Basically that's it, but think like a composer: go in with a plan to create change over time.  This sound will go to those sounds.  These inlet values will migrate to those inlet values.  The plan may change as you explore.
+
+5) Delight in the "unicorns" that will emerge from your exploration, emergent sounds and design.  I know you are trying to finish a project, but maybe even...ENJOY IT!  =-) 

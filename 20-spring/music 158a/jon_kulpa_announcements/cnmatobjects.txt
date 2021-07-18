@@ -1,0 +1,9 @@
+One more package that wasn't on your syllabus...
+
+Please download this:
+
+https://github.com/CNMAT/Music-and-Computing/releases/download/1.8/Music-and-Computing.zip (Links to an external site.)
+
+Unzip it into your /Documents/Max8/Packages folder.
+
+See you in class!

@@ -1,0 +1,11 @@
+Some students were interested in learning the most common Max-ian way of using poly~, so I made some materials on it.
+
+In the latest course.zip, see:
+
+MSP --> poly~ --> DESIGN4: address any free instance 
+
+I am also always happy to teach you this material over Zoom!
+
+ 
+
+In this design, you throw a bundle willy-nilly into your poly~ and Max figures out the targeting for you - it finds a non-busy instance.  You don't know where the data is going, but hey, it'll get handled!  It has an attractive design quality, but it also has its own challenges for troubleshooting.
